@@ -10,16 +10,16 @@ VALUES
 
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
 VALUES 
-(1,'Erin','Teel',3,2),
-(2,'Cheri','Linton',7,0),
-(3,'April','Armstrong',3,2),
-(4,'Veva','Aaron',6,0),
-(5,'Derek','Daubney',8,0),
-(6,'Noah','Freeman',5,0),
-(7,'Mica','Sadler',4,2),
-(8,'Dawn','Aiken',2,0),
-(9,'Rosalind','Walton',4,2),
-(10,'Cohen','Sempers',1,6);
+(1,'Dokhngee','Teel',3,2),
+(2,'Cheri','Squeeze',7,0),
+(3,'April','O Neighzer',3,2),
+(4,'Aveva','Aaron',6,0),
+(5,'Deirk','Daubney',8,0),
+(6,'Sancho','Freeman',5,0),
+(7,'Mica','Neughsunz',4,2),
+(8,'Dawn','Lithgow',2,0),
+(9,'Rosalind','Phillipes',4,2),
+(10,'Cuonz','Sempers',1,6);
 
 INSERT INTO role (id, title, salary, department_id)
 VALUES
