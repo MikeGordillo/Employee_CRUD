@@ -1,7 +1,7 @@
 # Employee CRUD
 ![License Badge](https://img.shields.io/static/v1?label=License&message=None&color=blue)
 
-![video](./Assets/.gif)
+![video](./Assets/trax.gif)
 
         
 ## Name:Mike Gordillo
