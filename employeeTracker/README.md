@@ -20,7 +20,7 @@
 ## Installation:
 * must have nodejs installed on your machine for this command line app to work
 ## Usage:
-* 
+* Clone and npm install dependencies, seed your database and run node app.js, on your command line.
 ## license:
 * None
         
