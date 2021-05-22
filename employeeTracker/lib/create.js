@@ -109,7 +109,7 @@ const addDepartment = () => {
 
 const addRole = () => {
     const query = 'SELECT id, name FROM department';
-    var depChoices = [];
+    let depChoices = [];
 
     connection.query(query, (err, res) => {
         if (err) throw err;
